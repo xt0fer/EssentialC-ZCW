@@ -9,6 +9,9 @@
 
 - Run the "hello, world" program on your system. Experiment with leaving out parts of the program,to see what error messages you get. pg7.
 - Modify the temperature conversion program to print a heading above the table. pg12.
+
+> For each of these, write a couple unit tests using https://libcheck.github.io/check/
+
 - Write a program to print the corresponding Celsius to Fahrenheit table. 
 - Write a program to print a histogram of the lengths of words in its input. It is easy to draw the histogram with the bars horizontal; a vertical orientation is more challenging
 - Write a program to print a histogram of the frequencies of different characters in its input.
