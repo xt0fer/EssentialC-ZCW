@@ -1,5 +1,9 @@
 # EssentialC-ZCW
 
+#### Some exercises
+
+- What is stumper1.c supposed to do? Debug stumper1.c and make it work.
+- 
 
 #### C Programming exercises.
 
