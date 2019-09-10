@@ -1,5 +1,7 @@
 # EssentialC-ZCW
 
+Start with [Stanford's EssentialC](docs/EssentialC-stanford.pdf).
+
 Choose a text editor from this list to code your exercises in.
 - vim
 - emacs
