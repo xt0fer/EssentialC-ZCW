@@ -1,9 +1,14 @@
 # EssentialC-ZCW
 
+Choose a text editor from this list to code your exercises in.
+- vim
+- emacs
+- atom
+
+
 #### Some exercises
 
 - What is stumper1.c supposed to do? Debug stumper1.c and make it work.
-- 
 
 #### C Programming exercises.
 
@@ -20,3 +25,4 @@
 - Write a program to remove all comments from a C program. Don't forget to handle quoted strings and character constants properly. C com- ments do not nest.
 
 - Write a function `reverse(s)` that reverses the character strings. Use it to write a program that reverses its input a line at a time.
+- a Makefile that can compile all of these exercises.
